@@ -2,8 +2,8 @@
 Distance measurement using ultrasonic HC-SR04 and ESP32 connected to AskSensors 
 
 
-Documentation:
--
-- https://asksensors.com/doc/Documentation.html
+Requirements:
+- 
+- Create AskSensors account: https://asksensors.com
 
 
